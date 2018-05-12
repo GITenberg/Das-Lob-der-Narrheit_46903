@@ -1,4 +1,5 @@
 _repo: Das-Lob-der-Narrheit_46903
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -17,6 +18,9 @@ contributor:
     wikipedia:
     - http://en.wikipedia.org/wiki/Hans_Holbein_the_Younger
     - http://de.wikipedia.org/wiki/Hans_Holbein_der_J%C3%BCngere
+covers:
+- cover_type: archival
+  image_path: 46903-h/images/cover.jpg
 creator:
   author:
     agent_name: Erasmus, Desiderius
@@ -27,6 +31,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3026
     wikipedia: http://en.wikipedia.org/wiki/Erasmus
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46903#Das-Lob-der-Narrheit
 gutenberg_issued: '2014-09-19'
 gutenberg_type: Text
 identifiers:
